@@ -39,7 +39,7 @@ Google Drive - https://drive.google.com/file/d/0Bz-2-OHt_4gQTkNYb21RRXBuNlE/view
 
 ### Credentials 
 
-`oit` : `attify123` 
+`oit` : `password@123` 
 
 ### How does it look like 
 
